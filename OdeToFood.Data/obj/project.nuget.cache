@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zR7JPOBbTgTMwyzKs1pMiAhRzDVxEdPy+Gjb2OIr2xoladZpRrHPW6RnUYFAX7g1Ivm1F9PHijMY8MuAkhUqyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jelba\\Documents\\Github Projects\\OdeToFood.Data\\OdeToFood.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jelba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jelba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

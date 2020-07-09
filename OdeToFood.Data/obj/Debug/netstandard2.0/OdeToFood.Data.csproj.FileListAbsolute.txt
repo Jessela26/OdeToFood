@@ -1,0 +1,12 @@
+C:\Users\jelba\Documents\Github Projects\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\jelba\Documents\Github Projects\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\jelba\Documents\Github Projects\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\jelba\Documents\Github Projects\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\jelba\Documents\Github Projects\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.deps.json
+C:\Users\jelba\Documents\Github Projects\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Users\jelba\Documents\Github Projects\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Users\jelba\Documents\Github Projects\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Users\jelba\Documents\Github Projects\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Users\jelba\Documents\Github Projects\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
+C:\Users\jelba\Documents\Github Projects\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Users\jelba\Documents\Github Projects\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
