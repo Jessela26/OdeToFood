@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jidl+h88DBQHbPnmNSL6ERk9ODRcPitBwxU3zcw2e1WYa6Fc2L467V324AMK0qnZr+r+Kg0ExXdzgHe592uG4A==",
+  "dgSpecHash": "lvGYZlgJ6x65+PYzUtoc7XkzQebG4vo1YnRLLTsij+7XxS6BrK8EhWG35xeyyVDj2J0xc/2Bnrf/BOFJoQr21w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jelba\\Documents\\Github Projects\\OdeToFood.Core\\OdeToFood.Core.csproj",
+  "projectFilePath": "C:\\Users\\jelba\\Documents\\Github Projects\\Jessela26\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jelba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\jelba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\jelba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jelba\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
