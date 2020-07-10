@@ -21,3 +21,4 @@ C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Data\obj\
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
