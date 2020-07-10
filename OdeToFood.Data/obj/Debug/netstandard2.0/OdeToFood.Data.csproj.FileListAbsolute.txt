@@ -18,7 +18,6 @@ C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Data\bin\
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
-C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
