@@ -10,7 +10,6 @@ C:\Users\jelba\Documents\Github Projects\OdeToFood.Core\obj\Debug\netstandard2.0
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.deps.json
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.dll
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
-C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csprojAssemblyReference.cache
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfoInputs.cache
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfo.cs
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.dll
