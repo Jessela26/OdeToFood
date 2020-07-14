@@ -19,6 +19,7 @@ namespace OdeToFood.Pages.Restaurants
         {
             this.restaurantData = restaurantData;
         }
+
         public IActionResult OnGet(int restaurantId)
         {
             Restaurant = restaurantData.GetById(restaurantId);
