@@ -4,7 +4,7 @@
     ViewData["Title"] = "ClientRestaurants";
 }
 
-<h2>ClientRestaurants</h2>
+<h2>Client Restaurants</h2>
 
 @section Scripts {
     <script>
@@ -12,7 +12,7 @@
             $.ajax("/api/restaurants/",
                 { method: "get" })
                 .then(function (response) {
-                    console.dir(respones);
+
                 });
         });
     </script>
