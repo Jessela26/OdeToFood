@@ -96,3 +96,4 @@ C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\ClientRestaurants.cshtml.g.cs
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\libman.json
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\package.json
+C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
