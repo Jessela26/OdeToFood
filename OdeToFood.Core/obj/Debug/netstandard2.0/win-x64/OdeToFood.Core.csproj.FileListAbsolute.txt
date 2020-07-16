@@ -1,0 +1,8 @@
+C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\win-x64\OdeToFood.Core.deps.json
+C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\win-x64\OdeToFood.Core.dll
+C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\win-x64\OdeToFood.Core.pdb
+C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\win-x64\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\win-x64\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\win-x64\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\win-x64\OdeToFood.Core.dll
+C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\win-x64\OdeToFood.Core.pdb
