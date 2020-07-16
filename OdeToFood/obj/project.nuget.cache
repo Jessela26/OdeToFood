@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ee0dJ84XqzdvcqNowBHokx0gt8+tG9lkeqDpdXiI3WUWi/fW0QmgObrO0ujxn6gbtHCN7El1QohiQVbrm2tZfQ==",
+  "dgSpecHash": "bJGDpDL4kyyjVGZQvaIssjM6dMUWMysQuWamrPUxLlzKJMKGbXe53im7HK4eb5JXlQBU5FD+TSAA5O4RiKLAww==",
   "success": true,
   "projectFilePath": "C:\\Users\\jelba\\Documents\\Github Projects\\Jessela26\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
   "expectedPackageFiles": [
@@ -183,6 +183,7 @@
     "C:\\Users\\jelba\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\jelba\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
     "C:\\Users\\jelba\\.nuget\\packages\\nuget.frameworks\\4.7.0\\nuget.frameworks.4.7.0.nupkg.sha512",
+    "C:\\Users\\jelba\\.nuget\\packages\\odetocode.usenodemodules\\1.0.6\\odetocode.usenodemodules.1.0.6.nupkg.sha512",
     "C:\\Users\\jelba\\.nuget\\packages\\remotion.linq\\2.2.0\\remotion.linq.2.2.0.nupkg.sha512",
     "C:\\Users\\jelba\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\jelba\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

@@ -59,7 +59,6 @@ C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\bin\Debug
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
-C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cache
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cs
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.TagHelpers.input.cache
@@ -95,3 +94,5 @@ C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Edit.cshtml.g.cs
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Index.cshtml.g.cs
 C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\ClientRestaurants.cshtml.g.cs
+C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\jelba\Documents\Github Projects\Jessela26\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\package.json
